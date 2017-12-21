@@ -1,2 +1,2 @@
-# taklimakan-ico-contracts
-ICO contracts of Taklimakan Network crowdsale
+
+# ICO contracts of Taklimakan Network crowdsale
